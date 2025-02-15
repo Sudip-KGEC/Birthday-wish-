@@ -133,6 +133,7 @@ h3 {
     color: rgb(187, 172, 172);
     opacity: 0;
     padding: 10px;
+     transition: all 2s linear;
 }
 
   @-webkit-keyframes shine {
