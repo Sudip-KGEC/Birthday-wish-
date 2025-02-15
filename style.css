@@ -5,7 +5,7 @@
     display: grid;
     place-items: center; /* Center both horizontally and vertically */
     width: 220px;
-    margin-left: 220px;
+    margin-left: 240px;
   }
   
   .gallery > img {
